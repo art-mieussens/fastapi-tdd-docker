@@ -1,0 +1,5 @@
+[tool.black]
+exclude = 'env'
+
+[tool.isort]
+skip = ["env"]
